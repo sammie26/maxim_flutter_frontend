@@ -2,6 +2,15 @@
 
 A new Flutter project.
 
+To run the front-end:
+
+1. Clone the repository.
+2. Change into the directory
+3. Run the command `flutter pub get` to download dependencies.
+4. Start an emulator.
+5. Run the app via VsCode or `flutter run`
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
